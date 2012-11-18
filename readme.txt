@@ -36,12 +36,14 @@ If you want a translation of another language included please help translating!
 == Installation ==
 
 1. Upload `recipe-press-reloaded` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate thhttp://www.rp-reloaded.net/report-a-bug/e plugin through the 'Plugins' menu in WordPress
 3. Configure the plugin on the Recipes menu screen.
 
 == Changelog ==
 
-= 0.5 - November 12th, 2012 =
+= 0.1 - November 12th, 2012 =
+= 0.2 - November 18th, 2012=
+- Fixed issues #1 and #2 on the RPR bugtracker (http://www.rp-reloaded.net/report-a-bug/)
 
 * Initial release
 
