@@ -3,7 +3,7 @@
 /*
   Plugin Name: RecipePressReloaded
   Plugin URI: http://rp-reloaded.net 
-  Description: A simple recipe plugin. It does all you need for your food blog: add recipes as easily as extra post type or include them in your blog posts. Plus: there these nifty recipe previews in Google's search - automagically. Yet to come: easily create indexes of any taxonomy like ingredient, category, course, cuisine, ...
+  Description: A simple recipe plugin. It does all you need for your food blog: add recipes as easily as extra post type or include them in your blog posts. Plus: there are these nifty recipe previews in Google's search - automagically. Yet to come: easily create indexes of any taxonomy like ingredient, category, course, cuisine, ...
   Version: 0.5.0
   Author: Jan Köster
   Author URI: http://www.cbjck.de/author/jan
