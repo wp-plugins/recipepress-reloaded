@@ -759,9 +759,9 @@ function rpr_mce_buttons_filter($buttons) {
     		if (is_single() || $this->option('recipe_archive_display', 'excerpt') == 'full')
     		{
     			$content = $this->get_recipes_content($recipe_post);
-    		} else {
+    		}/* else {
     			$content = $this->get_recipes_excerpt( $recipe_post );
-    		}
+    		}*/
     
     		add_filter('the_content', array( $this, 'recipes_content' ), 10);
     	}
